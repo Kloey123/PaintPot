@@ -1,7 +1,7 @@
 # PaintPot #
 Paintpot instructions and functions of the paintpot
-
-color cat,
+Version 1
+* color cat,
 can color red,
 can color Pink, 
 can color Blue,
